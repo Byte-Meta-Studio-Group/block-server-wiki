@@ -1,0 +1,16 @@
+{
+  "name": "bmssdocs",
+  "version": "1.0.0",
+  "description": "A Doc For Block Meta Server Soft",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [方块元服务器,方块元日记],
+  "author": "YuxiangWang_0525,1107_1108,Yang_161941",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
