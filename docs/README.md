@@ -18,4 +18,6 @@ features:
 ::: slot footer
 MIT Licensed | 方块元服务器 | Copyright © 2023-present [服务器官网](https://ais.bytemetasg.top/)  
 ![公安联网备案标识](policesign.png)[鲁公网安备 37020202000xxx号(公安联网备案办理中)](https://www.beian.gov.cn/)
+
+本作品采用[MIT License](https://mit-license.org/)许可
 :::

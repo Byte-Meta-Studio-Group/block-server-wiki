@@ -18,6 +18,8 @@ module.exports = {
 
         sidebar: 'auto',
         search: true,
-        searchMaxSuggestions: 10
+        searchMaxSuggestions: 10,
+        lastUpdated: '上一次更新',
+        smoothScroll: true
     }
 }
