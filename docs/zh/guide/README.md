@@ -148,7 +148,7 @@
 /payconfirmtoggle
 ```
 
-::: 如果您不再接受付款...
+::: details 如果您不再接受付款...
 请执行`/paytoggle`
 :::
 
