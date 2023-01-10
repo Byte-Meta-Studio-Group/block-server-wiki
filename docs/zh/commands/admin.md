@@ -1,5 +1,7 @@
 # 指令列表（管理员专用）
 
+[[toc]]
+
 ## Advancemob
 
 ### /amreload
@@ -30,5 +32,31 @@
 ### /hd
 
 未完成
+
+## ViaVersion
+
+### /viaver
+
+未完成
+
+## Playmoresounds
+
+### /pms
+
+## MiniMOTD
+
+### /minimotd
+
+未完成
+
+## Luckperms
+
+### /lp
+
+未完成
+
+## CrazyAuctionsPlus
+
+### /ca
 
 ## [返回普通文档](README.md)
