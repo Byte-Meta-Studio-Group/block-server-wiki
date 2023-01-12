@@ -6,6 +6,7 @@ module.exports = {
       "script", // js 文件
       { src: "/js/main.js" },
     ],
+    ["link", { rel: "icon", href: "/images/favicon.jpg" }],
   ],
   themeConfig: {
     nav: [
