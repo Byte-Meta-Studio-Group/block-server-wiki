@@ -21,7 +21,7 @@ features:
 
 请各位玩家不要在服务器玩家过多的情况下跑图，否则容易造成服务器卡顿，谢谢各位的理解
 
-同时，我们也会对非法跑图的玩家给予警告或封禁处理
+同时，我们也会对非法跑图的玩家给予适当处罚
 
 ::: slot footer
 MIT Licensed | 方块元服务器 | Copyright © 2023-present [服务器官网](https://ais.bytemetasg.top/)
