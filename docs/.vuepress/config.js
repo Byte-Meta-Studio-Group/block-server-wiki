@@ -17,6 +17,7 @@ module.exports = {
         items: [
           { text: "皮肤插件", link: "/zh/skin/" },
           { text: "粘液科技", link: "/zh/slimefun/" },
+          { text: "点歌插件", link: "/zh/allmusic/" },
         ],
       },
       { text: "问问题", link: "/zh/questions/" },
