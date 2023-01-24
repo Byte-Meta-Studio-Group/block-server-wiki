@@ -18,7 +18,14 @@
 /ps get [block]
 ```
 
-如果你没有输入*block*的类型，你将会收到一个简单的菜单，你可以通过点击文字直接获取保护石
+如果你没有输入*block*的类型，你将会收到一个简单的菜单，你可以通过点击文字直接获取保护石，例如
+
+```plain
+===== 保护石 (点击获取) =====
+> 16x (16 x 16) ($160)
+> 32x (32 x 32) ($160)
+> 64x (64 x 64) ($160)
+```
 
 ## 放置保护石
 
@@ -55,6 +62,8 @@ Bounds: (-1415, -803) -> (-1351, -739)
 `Flags`栏内显示的是当前领地的配置（本插件依赖WorldGuard，配置项可以非常轻松的前往[WorldGuard文档](http://worldguard.enginehub.org/en/latest/regions/flags/)查看）
 
 `Owners`，`Members`指示的是当前领地的主人以及协作者
+
+最后的`Bounds`指的是领地保护的范围
 
 ::: tip
 一个领地可以有多个主人，主人可以自己修改领地配置
@@ -96,3 +105,11 @@ Bounds: (-1415, -803) -> (-1351, -739)
 ```plain
 /ps tp <ID/名字>
 ```
+
+## 配置领地
+
+```plain
+/ps flag [flagname] [var|default|null]
+```
+
+配置项请前往[WorldGuard文档](http://worldguard.enginehub.org/en/latest/regions/flags/)查看定义
