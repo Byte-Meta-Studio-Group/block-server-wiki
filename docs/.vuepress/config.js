@@ -23,7 +23,7 @@ module.exports = {
       },
       { text: "问问题", link: "/zh/questions/" },
       { text: "规则", link: "/zh/rules/" },
-      { text: `定价`, link: "/zh/economic/" },
+      { text: `支持我们`, link: "/zh/sponsor/" },
     ],
 
     sidebar: "auto",
