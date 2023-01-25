@@ -3,7 +3,9 @@
 ::: tip
 由于本服务器为公益服，如果您能支持我们的话，我们将会感激不尽！
 
-当然，即使您不赞助的话游戏体验也不会比赞助玩家差
+当然，即使您不赞助的话游戏体验也并不会比赞助玩家差
+
+服务器的赞助资金将会全部拿去维护服务器（交电费，续费服务器等）
 :::
 
 如果您有条件，可以选择以下方案支持我们！
@@ -51,6 +53,7 @@
 
 - [我的世界中文站（宣传页面）](https://www.minecraftzw.com/30245.html)
 - [我的世界找服网（宣传页面）](https://www.fansmc.com/blog/268.html)
+- [我的世界服务器列表（宣传页面）](https://www.mclists.cn/server/6339.html)
 
 ## 邀请其他玩家
 
@@ -72,3 +75,33 @@
 我们会选择一些优秀的贡献者，颁发相应头衔
 
 [文档github地址](https://github.com/Byte-Meta-Studio-Group/block-server-wiki)
+
+## 复制bbcode至您的论坛签名
+
+您可以复制以下bbcode以设置您的论坛签名，当然您也可以添加img标签至您的网页
+
+对于服务器帮助较大的，我们将给予您`[宣传]`权限组（具体权限请参考前面）
+
+### 样式1
+
+```bbcode
+[img]https://tietu.mclists.cn/banner/purple/6339/1.jpg[/img]
+```
+
+![样式1](https://tietu.mclists.cn/banner/purple/6339/1.jpg)
+
+### 样式2
+
+```bbcode
+[img]https://tietu.mclists.cn/banner/pink/6339/2.jpg[/img]
+```
+
+![样式2](https://tietu.mclists.cn/banner/pink/6339/2.jpg)
+
+### 样式3
+
+```bbcode
+[img]https://tietu.mclists.cn/banner/green/6339/3.jpg[/img]
+```
+
+![样式1](https://tietu.mclists.cn/banner/purple/6339/3.jpg)
