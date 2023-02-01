@@ -1,5 +1,11 @@
 # 教 你 怎 么 玩 服 务 器
 
+::: warning
+如果您还没有购买Minecraft正版，请考虑立刻购买正版哦~
+
+[购买Minecraft正版(部分地区可能无法正常访问)](https://www.minecraft.net/zh-hans/get-minecraft)（部分地区可能无法正常访问）
+:::
+
 ::: tip
 如果本文档无法解决您的问题（或是未出现的问题），请联系管理，管理可以手把手教您
 :::
