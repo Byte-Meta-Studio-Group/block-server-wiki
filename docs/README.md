@@ -2,7 +2,7 @@
 home: true
 heroImage: ./images/logo.jpg
 heroText: 欢迎查看方块元玩家文档
-tagline: 如有问题请提交至bmssservice@0525.fun
+tagline: 1.18.2生存/养老/建筑/社交服务器
 actionText: 查看文档
 actionLink: ./zh/
 features:
@@ -12,10 +12,24 @@ features:
   details: 打造玩法新奇的服务器
 - title: 我们坚持公益服运营
   details: 让玩家不花一分钱，体验与众不同的Minecraft服务器
-#footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
 
 # 公告
+
+## 2023/2/1
+
+由于ardmc恶意攻击服务器，现已被封禁ip（可进行实名解封操作）
+为此，我们已调整服务器政策，望各位理解
+
+1. 开设等候大厅（理论可抗200000假人）
+2. 限制一个ip只能登录一个玩家
+3. 限制一个ip只能注册两个玩家
+4. 实体机准备完成后按客户端登录，限定mac地址
+
+::: tip 注ardmc的封禁原因
+永久小黑屋 ar, ardmc
+原因：辱骂管理，伤害其他玩家，当服务器内鬼，不礼貌，捣乱，语言过激，让CN_GuYu背黑锅，服务器名声败坏，给服务器招来攻击（真行啊你，聊天框字数都不够，都得我开全屏给你打封禁报告）
+:::
 
 ## 2023/1/28
 
