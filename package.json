@@ -13,8 +13,8 @@
     "方块元服务器",
     "方块元日记"
   ],
-  "author": "YuxiangWang_0525,1107_1108,Yang_161941",
-  "license": "ISC",
+  "author": "YuxiangWang_0525, 1107_1108, Yang_161941",
+  "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.9.7"
   }

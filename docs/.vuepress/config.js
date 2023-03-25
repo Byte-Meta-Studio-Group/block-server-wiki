@@ -23,7 +23,15 @@ module.exports = {
       },
       { text: "问问题", link: "/zh/questions/" },
       { text: "规则", link: "/zh/rules/" },
-      { text: `支持我们`, link: "/zh/sponsor/" },
+      {
+        text: "关于...",
+        ariaLabel: "",
+        items: [
+          { text: `关于我们`, link: "/zh/about/" },
+          { text: `支持我们`, link: "/zh/sponsor/" },
+          { text: "为什么选择我们", link: "/zh/why/" },
+        ],
+      },
     ],
 
     sidebar: "auto",
