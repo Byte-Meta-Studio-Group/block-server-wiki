@@ -60,12 +60,11 @@
 
 ## 进服地址
 
-- aismc.bid
-- ais.kkkmc.icu
+- ais-p2p.yang-qwq.ml 或 10.5.11.4（需要使用联机软件）
 
-::: warning
+<!-- ::: warning
 本服务器**不在中国教育网提供服务**
-:::
+::: -->
 
 ::: details 我不会添加多人服务器...
 请善用<a href="javascript:seeerbaidu('我的世界%20添加多人服务器')">搜索引擎</a>
