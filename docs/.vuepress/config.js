@@ -24,12 +24,13 @@ module.exports = {
       { text: "问问题", link: "/zh/questions/" },
       { text: "规则", link: "/zh/rules/" },
       {
-        text: "关于...",
+        text: "关于",
         ariaLabel: "",
         items: [
           { text: `关于我们`, link: "/zh/about/" },
           { text: `支持我们`, link: "/zh/sponsor/" },
           { text: "为什么选择我们", link: "/zh/why/" },
+          { text: "开源许可证", link: "/zh/open-source/" },
         ],
       },
     ],
