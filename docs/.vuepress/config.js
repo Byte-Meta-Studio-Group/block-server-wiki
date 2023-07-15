@@ -11,6 +11,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "主页", link: "/" },
+      { text: "皮肤站", link: "https://skin.bytemetasg.top/" },
       { text: "指南", link: "/zh/" },
       {
         text: "插件教程",
