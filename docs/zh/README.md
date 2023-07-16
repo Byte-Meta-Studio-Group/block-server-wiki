@@ -111,7 +111,8 @@
 
 ## 进服地址
 
-尽情期待~
+- aismc.bid
+- mc.greenspray.cn
 
 <!-- ::: warning
 本服务器**不在中国教育网提供服务**
