@@ -24,7 +24,7 @@ features:
 服务器从开服起至目前已经欠费**3500元**，生活不易，还请[支持一下](./zh/sponsor/)~
 :::
 # “封” 神 榜
-<iframe frameborder="no" border="0" src="https://api.yuxiangwang0525.com/bmss/bansapi.php"></iframe>
+<iframe frameborder="no" border="0" width=990 src="https://api.yuxiangwang0525.com/bmss/bansapi.php"></iframe>
 
 # 公告
 
