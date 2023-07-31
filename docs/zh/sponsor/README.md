@@ -160,3 +160,9 @@
 ```
 
 ![样式1](https://tietu.mclists.cn/banner/purple/6339/3.jpg)
+
+## 查看支持与贡献玩家列表
+
+::: tip
+[此处](./list.md)存放了所有为服务器带来贡献的玩家（不分先后）
+:::
