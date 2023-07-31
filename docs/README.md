@@ -30,7 +30,7 @@ features:
 
 # 封 神 榜
 
-<iframe frameborder="no" border="0" width=990 src="https://api.yuxiangwang0525.com/bmss/bansapi.php"></iframe>
+请[点击此处](./zh/bans/)查看
 
 # 公告
 
