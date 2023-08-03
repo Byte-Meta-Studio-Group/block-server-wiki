@@ -6,7 +6,7 @@
 
 ## 在提问之前
 
-PS. 请务必先<a href="javascript:seeerbaidu()">搜索问题</a>，亦或者查看[常见问题](../faq/)
+PS. 请务必先<a href="javascript:seeerbaidu()">搜索问题</a>，亦或者查看[已被收录的问题](./category.md)
 
 - 尝试上网搜索寻找答案
 - 尝试阅读官方wiki寻找答案

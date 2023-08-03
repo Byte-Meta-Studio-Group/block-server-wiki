@@ -13,6 +13,7 @@ module.exports = {
       { text: "主页", link: "/" },
       { text: "皮肤站", link: "https://skin.bytemetasg.top/" },
       { text: "指南", link: "/zh/" },
+      { text: `支持我们`, link: "/zh/sponsor/" },
       {
         text: "插件教程",
         items: [
@@ -29,7 +30,6 @@ module.exports = {
         ariaLabel: "",
         items: [
           { text: `关于我们`, link: "/zh/about/" },
-          { text: `支持我们`, link: "/zh/sponsor/" },
           { text: "为什么选择我们", link: "/zh/why/" },
           { text: "开源许可证", link: "/zh/open-source/" },
         ],
