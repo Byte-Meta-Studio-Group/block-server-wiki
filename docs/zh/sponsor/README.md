@@ -111,7 +111,7 @@
 
 当然，除了现金支持以外，我们还提供其他方案支持~
 
-你可以观看[服务器宣传片@bilibili](https://www.bilibili.com/video/BV1BG4y1k7ZP/?share_source=copy_web&vd_source=4a12eef0342213e347b70d4147a360b6)*（一定要看完啊啊啊啊啊啊啊啊啊啊啊啊啊啊！）*
+你可以观看[服务器宣传片](https://www.bilibili.com/video/BV1BG4y1k7ZP/?share_source=copy_web&vd_source=4a12eef0342213e347b70d4147a360b6)*（一定要看完啊啊啊啊啊啊啊啊啊啊啊啊啊啊！）*
 
 也可以前往以下发布页浏览下服务器宣传，帮忙我们提升服务器热度
 
