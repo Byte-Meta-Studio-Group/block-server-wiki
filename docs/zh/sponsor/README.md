@@ -119,6 +119,7 @@
 - [我的世界中文站（宣传页面）](https://www.minecraftzw.com/30245.html)
 - [我的世界找服网（宣传页面）](https://www.fansmc.com/blog/268.html)
 - [我的世界服务器列表（宣传页面）](https://www.mclists.cn/server/6339.html)
+- [Minecraft中文站（宣传页面）](https://www.mcshuo.com/thread-1213-1-1.html)
 
 ## 邀请其他玩家
 
