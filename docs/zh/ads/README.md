@@ -30,8 +30,13 @@
 ### 截图
 
 ::: tip
-这里从图床上随便引用三张图片就行
+这里从图床上随便引用三张图片就行，下面的列表里有已经上传过的链接（不要直接粘贴或者插入，如果不成功的话先去打开链接，然后复制以文件名结尾的那个再试）
 :::
+
+- <https://imgse.com/i/pPkZPUK>
+- <https://imgse.com/i/pPkZpHx>
+- <https://imgse.com/i/pPkZCE6>
+- <https://imgse.com/i/pPkZSD1>
 
 ## 元数据
 
