@@ -121,6 +121,7 @@
 - [我的世界服务器列表（宣传页面）](https://www.mclists.cn/server/6339.html)
 - [Minecraft中文站（宣传页面）](https://www.mcshuo.com/thread-1213-1-1.html)
 - [MineBBS 我的世界中文论坛（宣传页面）](https://www.minebbs.com/threads/1-7-10-1-20-1.20107/)
+- [MC萝卜论坛（宣传页面）](https://www.luobomc.top/forum-post/361.html)
 
 ## 邀请其他玩家
 
