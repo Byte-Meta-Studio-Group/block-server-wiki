@@ -17,10 +17,10 @@ module.exports = {
       {
         text: "插件教程",
         items: [
-          { text: "皮肤插件", link: "/zh/skin/" },
           { text: "粘液科技", link: "/zh/slimefun/" },
           { text: "保护石插件", link: "/zh/protectionstones/" },
           { text: "点歌插件", link: "/zh/allmusic/" },
+          { text: "皮肤插件（已过时）", link: "/zh/skin/" },
         ],
       },
       { text: "问问题", link: "/zh/questions/" },
