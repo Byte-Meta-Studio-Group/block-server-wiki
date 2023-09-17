@@ -2,14 +2,10 @@
 
 感谢[Coloryr](https://github.com/Coloryr/)制作的[AllMusic](https://github.com/Coloryr/AllMusic_P)插件提供技术支持！
 
-::: warning
-为了防止API被滥用，所以我们打算对搜歌功能以及点歌功能进行适当的收费
-:::
-
 ## 快速点歌（推荐）
 
 ::: warning
-本功能收费5百灵币/次
+本功能收费5金币/次
 :::
 
 直接输入歌曲对应id即可点歌
@@ -21,7 +17,7 @@
 ## 搜索歌曲
 
 ::: warning
-本功能收费5百灵币/次
+本功能收费5金币/次
 :::
 
 搜索后可通过直接点击结果添加音乐哦~

@@ -1,5 +1,31 @@
 # 公告
 
+## 2023/9/16
+
+服务器开始紧急维护，预计时长约为1小时
+
+## 2023/8/30
+
+本月存档已发布，请及时查收（其他平台将会陆续发布）
+
+链接：<https://pan.baidu.com/s/1_J_2xA1tGwlkThXqqYbeTg?pwd=y5dw>
+
+提取码：y5dw
+
+---
+
+aismc-2023-8-20.e01.exe 等文件
+
+<https://www.aliyundrive.com/s/7cTkoXr55Sh>
+
+提取码: 40fv
+
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
+
+---
+
+<https://1drv.ms/f/s!Au6cla-Wthmogp5Vrz-cPQ3IIKJZ2g>
+
 ## 2023/8/12
 
 【紧急公告】

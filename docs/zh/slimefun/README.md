@@ -1,12 +1,27 @@
 # 粘液科技简易教程
 
-在学习关于粘液科技的知识前，你需要先了解几点常识：
+## 插件简介
 
-- 粘液科技手册看起来像一本附魔书
-- 你有很可能在野外遇到粘液科技生成的结构
-- 你需要用经验值解锁相关条目之后才能使用对应物品
-- **不要催汉化，这模组写死语言文件了**
-- *管理不卖经验与粘液科技的物品*
+### 什么是 Slimefun?
+
+Slimefun 是一个 Bukkit 插件，以向服务器提供模组级体验为目标。
+
+### Slimefun 能做什么?
+
+在不安装 Mod 的情况下，Slimefun 能够向原版 Minecraft 服务器添加新物品。 Slimefun4 本体提供了远远超过 400 种物品和方块，其中包括:
+
+- 背包
+- 核反应堆
+- 魔法祭坛, 符文和法杖
+- 物品传输系统
+- 电力网络
+- 电力机器
+- 可编程式机器人 (挖矿机器人)
+- 全息文字投影仪
+- 爆炸镐
+- 还有很多很多很多...
+
+—— 粘液科技官方wiki（有删改）
 
 ## 入门
 
@@ -23,11 +38,35 @@
 ## 解锁词条
 
 ::: warning
-你需要解锁对应物品的词条才可以使用与制作对应物品
+你需要解锁对应物品的词条和关联/前置词条（如果有）才可以使用与制作对应物品
 :::
 
-你可以通过点击以浏览相关词条，若未解锁某个词条，它的图标会为会屏障
+粘液科技中解锁所有的词条都需要经验值。若未解锁某个词条，它的图标会为会屏障
+
+## 物品一览
+
+请打开[粘液科技中文wiki](https://slimefun-wiki.guizhanss.cn/?id=content-item-categories)、[粘液科技附属中文wiki](https://slimefun-addons-wiki.guizhanss.cn/)或[原版英文wiki](https://github.com/Slimefun/Slimefun4/wiki/#content--item-categories)查看
+
+## 服务器正在使用的插件列表
+
+安装的附属插件: (13)
+
+- Networks vBuild 72 zh-CN(ybw0014) (git a3771d6)
+- DyedBackpacks vBuild 2 zh-CN(baoad) (git 3a17d71)
+- AureliumSkills vBeta 1.3.19
+- GuizhanLibPlugin vBuild 26 (git 5dbf3e4)
+- ExtraGear vBuild 2 zh-CN(ybw0014) (git ff13031)
+- ExoticGarden vUNOFFICIAL
+- InfinityExpansion vBuild 5 zh-CN(SlimefunGuguProject) (git 018bfe1)
+- MissileWarfare vBuild 14 zh-CN(haiman233) (git 1475c30)
+- PrivateStorage vUNOFFICIAL
+- SlimeTinker vBuild 45 zh-CN(ybw0014) (git e2c9ca2)
+- TranscEndence vBuild 6 zh-CN(baoad) (git 12c5713)
+- FluffyMachines vUNOFFICIAL
+- SlimyRepair vBuild 1 zh-CN(baoad) (git d0ae908)
 
 ## 参考资料
 
 1. [粘液科技官方wiki](https://github.com/Slimefun/Slimefun4/wiki/)
+2. [粘液科技中文wiki](https://slimefun-wiki.guizhanss.cn/)
+3. [粘液科技附属中文wiki](https://slimefun-addons-wiki.guizhanss.cn/)
