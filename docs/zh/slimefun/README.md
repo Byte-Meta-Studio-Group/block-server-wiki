@@ -43,6 +43,10 @@ Slimefun 是一个 Bukkit 插件，以向服务器提供模组级体验为目标
 
 粘液科技中解锁所有的词条都需要经验值。若未解锁某个词条，它的图标会为会屏障
 
+## 详细教程
+
+请打开[粘液科技中文wiki](https://slimefun-wiki.guizhanss.cn/)或者[原版英文wiki](https://github.com/Slimefun/Slimefun4/wiki/)查看
+
 ## 物品一览
 
 请打开[粘液科技中文wiki](https://slimefun-wiki.guizhanss.cn/?id=content-item-categories)、[粘液科技附属中文wiki](https://slimefun-addons-wiki.guizhanss.cn/)或[原版英文wiki](https://github.com/Slimefun/Slimefun4/wiki/#content--item-categories)查看

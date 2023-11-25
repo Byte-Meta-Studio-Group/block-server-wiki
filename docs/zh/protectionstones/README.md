@@ -49,8 +49,8 @@
 ===== 领地信息 =====
 Region: ps-114x51y4z, Priority: 0
 Type: 32x
-Flags: invincible: -g MEMBERS ALLOW, greeting: 正在进入 Yang_161941 的保护区域, pvp: DENY, tnt: DENY, chest-access: -g NON_MEMBERS DENY, fire-spread: DENY, greeting-action: 正在进入 Yang_161941 的保护区域, notify-leave: -g OWNERS true, use: ALLOW, farewell-action: 正在离开 Yang_161941 的保护区域, creeper-explosion: DENY, notify-enter: -g OWNERS true, farewell: 正在离开 Yang_161941 的保护区域, ps-home: -1383.0 73.0 -771.0, .
-Owners: Yang_161941
+Flags: invincible: -g MEMBERS ALLOW, greeting: 正在进入 SomeOne 的保护区域, pvp: DENY, tnt: DENY, chest-access: -g NON_MEMBERS DENY, fire-spread: DENY, greeting-action: 正在进入 SomeOne 的保护区域, notify-leave: -g OWNERS true, use: ALLOW, farewell-action: 正在离开 SomeOne 的保护区域, creeper-explosion: DENY, notify-enter: -g OWNERS true, farewell: 正在离开 SomeOne 的保护区域, ps-home: -1383.0 73.0 -771.0, .
+Owners: SomeOne
 Members: (没有协助成员)
 Bounds: (-1415, -803) -> (-1351, -739)
 ```
@@ -106,10 +106,78 @@ Bounds: (-1415, -803) -> (-1351, -739)
 /ps tp <ID/名字>
 ```
 
+## 添加成员/主人
+
+想要邀请其他玩家一起使用你的领地？没问题！
+
+通过执行
+
+```plain
+/ps add <ID/名字>
+```
+
+或
+
+```plain
+/ps addowner <ID/名字>
+```
+
+即可做到
+
+::: warning 安全警告
+若您执行了前者，则该玩家默认状态下将会可以与您领地内所有内容交互（例如破坏/放置方块、打开箱子等）
+
+若您执行了后者，则该玩家不仅拥有成员级别的权限，还可以修改领地的设置、成员（某些情况下可以将您踢出领地），所以一般来说不推荐这级权限
+
+要想移除这些玩家，请执行
+
+```plain
+/ps remove <ID/名字>
+```
+
+或
+
+```plain
+/ps removeowner <ID/名字>
+```
+
+即可
+:::
+
 ## 配置领地
+
+您可以通过直接执行
+
+```plain
+/ps flag
+```
+
+来打开配置界面
+
+当然，也可以通过如下命令直接设置
 
 ```plain
 /ps flag [flagname] [var|default|null]
 ```
 
+### 常见配置
+
+|key|var|解释|
+|---|---|---|
+|fire-spread|bool(Allow/Deny)|是否允许火焰蔓延|
+|invincible|bool|是否允许无敌|
+|pvp|bool|是否允许PVP|
+|mob-spawning|bool|是否允许刷怪|
+|creeper-explosion|bool|苦力怕爆炸是否破坏方块|
+|entry|bool|是否允许进入领地|
+|use|bool|是否允许和领地内的内容交互|
+|chest-access|bool|是否允许打开领地内的箱子|
+
+### 更多配置项
+
 配置项请前往[WorldGuard文档](http://worldguard.enginehub.org/en/latest/regions/flags/)查看定义
+
+## 参考资料
+
+1. 插件帮助文本
+2. ...
