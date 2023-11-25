@@ -32,6 +32,7 @@ module.exports = {
           { text: `关于我们`, link: "/zh/about/" },
           { text: "为什么选择我们", link: "/zh/why/" },
           { text: "开源许可证", link: "/zh/open-source/" },
+          { text: "支持与贡献名单列表", link: "/zh/sponsor/list.md" },
         ],
       },
     ],
