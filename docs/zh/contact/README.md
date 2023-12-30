@@ -6,7 +6,7 @@
 
 您可选择在官方QQ群直接提问，管理员与热心玩家们一般都会帮你解决问题哦~
 
-请[点击此处](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5wfssFGBilqX2Q5jK1UUhXXTYGiKum0i&authKey=NjV3d4LRrocVM4x7J7fxSq6V%2B236kbQYjQ4L56iftcMucnoef%2BvC5Nh7knv7rXK9&noverify=0&group_code=796676711)或直接复制群号：796676711
+请[点击此处](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=c6Ys16TI1qwnFV3rW9vMeegsqslSr26O&authKey=1zweALFmGWHfOh3JLay8JbCNh3CjUC2wj5BrWd0kvr44p8RpybynLoaAOyv%2Fzbp2&noverify=0&group_code=297257008)或直接复制群号：297257008
 
 ## 进入官方kook服务器
 

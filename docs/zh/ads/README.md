@@ -54,7 +54,7 @@
 
 服务器官网：<https://yang-qwq.top/block-server-wiki/>
 
-服务器QQ群：796676711
+服务器QQ群：297257008
 
 服务器kook服务器：<https://kook.top/yaHWcB>
 
@@ -72,7 +72,7 @@
         "suggestion": "1.18.2"
     },
     "tags": ["生存", "创造", "休闲", "公益"],
-    "qgroup": 796676711,
+    "qgroup": 297257008,
     "links": [
         {
             "name": "服务器官网",
