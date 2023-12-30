@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/bmssdoc/',
   title: "方块元服务器",
   description: "玩家文档",
   head: [
