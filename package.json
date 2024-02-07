@@ -4,8 +4,9 @@
   "description": "A Doc For Block Meta Server Soft",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs",
-    "docs:build": "SET NODE_OPTIONS=--openssl-legacy-provider &&vuepress build docs"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
   "keywords": [
     "方块元服务器",
@@ -16,6 +17,6 @@
   "author": "YuxiangWang_0525, 1107_1108, Yang_161941",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.9.7"
+    "vitepress": "^1.0.0-rc.42"
   }
 }
