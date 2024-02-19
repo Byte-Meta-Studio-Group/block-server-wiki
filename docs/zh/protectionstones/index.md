@@ -180,4 +180,6 @@ Bounds: (-1415, -803) -> (-1351, -739)
 ## 参考资料
 
 1. 插件帮助文本
-2. ...
+2. [插件英文wiki](https://github.com/espidev/ProtectionStones/wiki)
+3. [插件github页面](https://github.com/espidev/ProtectionStones)
+4. [spigot发布页](https://www.spigotmc.org/resources/protectionstones-updated-for-1-13-1-16-wg7.61797/)

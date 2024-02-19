@@ -13,7 +13,7 @@ hero:
       text: 查看文档
       link: ./zh/
     - theme: alt
-      text: 查看最近的信息
+      text: 查看动态
       link: ./zh/homepage-infomation/
 
 features:

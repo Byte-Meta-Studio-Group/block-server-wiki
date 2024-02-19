@@ -68,7 +68,6 @@
 如果您的宣传（无论任何方式）累计吸引了5名玩家加入服务器（或者3位活跃玩家，不计算小号），您可获得`[宣传]`权限组，你可以获得：
 
 - **流量扶持与互动扶持（全平台与全方式）**
-- 自动签到
 - 增加最大保护石数量
 - 跳过传送冷却
 - 聊天色彩样式
@@ -85,7 +84,6 @@
 
 注：累计支持1元以上可获得`[赞助]`权限组，你可以获得
 
-- 自动签到
 - 增加最大保护石数量
 - 跳过传送冷却
 - 聊天色彩样式
@@ -113,17 +111,18 @@
 
 当然，除了现金支持以外，我们还提供其他方案支持~
 
-你可以观看[服务器宣传片](https://www.bilibili.com/video/BV1BG4y1k7ZP/?share_source=copy_web&vd_source=4a12eef0342213e347b70d4147a360b6)*（一定要看完啊啊啊啊啊啊啊啊啊啊啊啊啊啊！）*
+<!-- 你可以观看[服务器宣传片](https://www.bilibili.com/video/BV1BG4y1k7ZP/?share_source=copy_web&vd_source=4a12eef0342213e347b70d4147a360b6)*（一定要看完啊啊啊啊啊啊啊啊啊啊啊啊啊啊！）* -->
 
-也可以前往以下发布页浏览下服务器宣传，帮忙我们提升服务器热度
+可以前往以下发布页浏览下服务器宣传，帮忙我们提升服务器热度
 
 - [我的世界中文站（宣传页面）](https://www.minecraftzw.com/30245.html)
 - [我的世界找服网（宣传页面）](https://www.fansmc.com/blog/268.html)
 - [我的世界服务器列表（宣传页面）](https://www.mclists.cn/server/6339.html)
 - [Minecraft中文站（宣传页面）](https://www.mcshuo.com/thread-1213-1-1.html)
 - [MineBBS 我的世界中文论坛（宣传页面）](https://www.minebbs.com/threads/1-7-10-1-20-1.20107/)
-- [MC萝卜论坛（宣传页面）](https://www.luobomc.top/forum-post/361.html)
+<!-- - [MC萝卜论坛（宣传页面）](https://www.luobomc.top/forum-post/361.html) -->
 - [找服玩（宣传页面）](https://play.mcmod.cn/sv20187490.html)
+- [我的世界服务器查询](https://list.mczfw.cn/13366.html)
 
 ## 邀请其他玩家
 
