@@ -1,0 +1,13 @@
+# 短链接跳转
+
+即将带你去目标内容...
+
+目标内容：[无效的个人信息公钥签名](../../questions/login.md#无效的个人信息公钥签名)
+
+如果该页面长时间没有动作，请手动点击上方链接进行跳转！
+
+<script type="text/javascript">
+　　setTimeout(
+        window.location.href='../../questions/login.html#无效的个人信息公钥签名', 3000
+    );
+</script>

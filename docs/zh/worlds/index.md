@@ -1,8 +1,10 @@
 # 世界列表一览
 
 ::: tip
-在此处您可以查找世界ID与对应关系，以及相关的内容
+可以通过命令`/mvtp <世界ID>`直接传送到某个世界哦~
 :::
+
+在此处您可以查找世界ID与对应关系、用途，以及相关的内容
 
 [[toc]]
 
@@ -13,6 +15,13 @@
 |aismc|<span style="color: lime;">方块元日记</span>|主世界|√||
 |aismc_nether|<span style="color: red;">方块元日记</span>|下界|√||
 |aismc_the_end|<span style="color: yellow;">方块元日记</span>|末地|√||
+
+## 方块元日记·创造世界
+
+|ID|世界名称|类型|是否受到保护|简介|
+|---|---|---|---|---|
+|create_flatroom|<span style="color: aqua;">超平坦地皮1</span>|超平坦|||
+|create_normal|<span style="color: aqua;">主世界地皮1</span>|主世界|||
 
 ## 公会世界
 

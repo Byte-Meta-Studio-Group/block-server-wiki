@@ -44,6 +44,6 @@
 
 若您遇见该问题，请尝试使用1.18.2以下的客户端进行登录，或者安装[No Chat Reports Mod](https://www.mcmod.cn/class/6756.html)到你的客户端即可解决该问题
 
-或者，统一使用离线登录也是个不错的选择
+或者，统一使用[皮肤站](https://skin.bytemetasg.top/)也是个不错的选择
 
 ## [返回至上一页](./category.md)
