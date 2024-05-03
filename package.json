@@ -17,6 +17,6 @@
   "author": "YuxiangWang_0525, 1107_1108, Yang_161941",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^1.1.3"
+    "vitepress": "^1.1.4"
   }
 }
