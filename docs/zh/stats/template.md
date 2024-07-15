@@ -28,7 +28,7 @@
 
 在这段时间里，使用命令最多的玩家为：
 
-**{command_most_access_player}**，总计`{commandmost_access_player_count}`次
+**{command_most_access_player}**，总计`{command_most_access_player_count}`次
 
 而在这其中，
 
@@ -44,17 +44,19 @@
 
 在这段时间里，贴告示牌最多的玩家是：
 
-**{command_most_access_player}**，总计`{commandmost_access_player_count}`次
+**{sign_most_access_player}**，总计`{sign_most_access_player_count}`次
 
 ### 词云图
 
 ![告示牌词云图]({sign_word_cloud_chart_url})
 
+> {sign_most_access_comment}
+
 ## 登录篇
 
 在这段时间里，登录次数最多的玩家是：
 
-**{login_most_access_player}**，总计`{login_access_player_count}`次
+**{login_most_access_player}**，总计`{login_most_access_player_count}`次
 
 > {login_most_access_comment}
 
