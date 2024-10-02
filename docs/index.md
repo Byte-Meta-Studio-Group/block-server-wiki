@@ -47,18 +47,8 @@ features:
 
 ## 公告
 
-本月存档已发布，请及时查收（其他平台将会陆续发布）
+服务器在最近进行了维护操作
 
-通过百度网盘分享的文件：world.7z.001，world.7z.002，版权声明.txt等3个文件
-
-链接：<https://pan.baidu.com/s/1SYyLzIagDrZfirmFtIMW3w?pwd=xqsg>
-
-提取码：xqsg
-
----
-
-我们在近期封禁了玩家`Jacek_Daniel`（正版）与玩家`SZIBIxMAMAOSKARA`（正版），原因均为恶意破坏
-
-如果您对封禁有任何疑问，欢迎[联系管理](./zh/contact/)解决
+如果你出现了丢失数据的情况，请[联系管理](./zh/contact/)解决
 
 [查看历史公告](./zh/announcements/)

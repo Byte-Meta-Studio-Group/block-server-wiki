@@ -1,5 +1,25 @@
 # 公告
 
+## 2024/8/7
+
+本月存档已发布，请及时查收（其他平台将会陆续发布）
+
+通过百度网盘分享的文件：world.7z.001，world.7z.002，版权声明.txt等3个文件
+
+链接：<https://pan.baidu.com/s/1SYyLzIagDrZfirmFtIMW3w?pwd=xqsg>
+
+提取码：xqsg
+
+---
+
+<https://1drv.ms/f/c/a819b696af959cee/EsOTUkXM6VZBjZX6GFn3c8wBQxjKYI8ph07wZ9dFvU296w?e=7Lkebs>
+
+---
+
+我们在近期封禁了玩家`Jacek_Daniel`（正版）与玩家`SZIBIxMAMAOSKARA`（正版），原因均为恶意破坏
+
+如果您对封禁有任何疑问，欢迎[联系管理](../contact/)解决
+
 ## 2024/7/24
 
 我们在近期封禁了玩家`CULONELPUZZ0`（正版）与玩家`Mettx`（正版），原因均为恶意破坏

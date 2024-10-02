@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "方块元服务器",
   description: "玩家文档",
+  base: '/',
   head: [
     [
       "script",
