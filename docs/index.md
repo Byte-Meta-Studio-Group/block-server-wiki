@@ -4,7 +4,7 @@ layout: home
 hero:
   name: 方块元玩家文档
   text:
-  tagline: 1.20.4生存/养老/建筑/社交服务器
+  tagline: 1.19.4生存/养老/建筑/社交服务器
   image:
     src: ./images/logo.jpg
     alt: VitePress
