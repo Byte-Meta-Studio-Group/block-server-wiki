@@ -25,6 +25,7 @@ export default defineConfig({
           { text: "粘液科技", link: "/zh/slimefun/" },
           { text: "保护石插件", link: "/zh/protectionstones/" },
           { text: "点歌插件", link: "/zh/allmusic/" },
+          { text: "箱子商店", link: "/zh/quickshop/" },
           { text: "皮肤插件（已过时）", link: "/zh/skin/" },
         ],
       },
