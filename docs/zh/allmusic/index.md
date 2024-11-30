@@ -1,12 +1,18 @@
 # 点歌插件简易教程
 
+::: warning
+AllMusic已升级到AllMusic3，对于旧版AllMusic模组已不再兼容
+
+对于已经安装了旧版模组的玩家来说，请重新获取本模组后继续
+:::
+
 感谢[Coloryr](https://github.com/Coloryr/)制作的[AllMusic](https://github.com/Coloryr/AllMusic_P)插件提供技术支持！
 
 ## 快速点歌（推荐）
 
-::: warning
+<!-- ::: warning
 本功能收费5金币/次
-:::
+::: -->
 
 直接输入歌曲对应id即可点歌
 
@@ -16,9 +22,9 @@
 
 ## 搜索歌曲
 
-::: warning
+<!-- ::: warning
 本功能收费5金币/次
-:::
+::: -->
 
 搜索后可通过直接点击结果添加音乐哦~
 
@@ -38,7 +44,7 @@
 
 现在播放的歌不满心意？那就投票切换吧！
 
-```
+```plain
 /music vote
 ```
 
