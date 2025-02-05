@@ -16,7 +16,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "主页", link: "/" },
-      { text: "皮肤站", link: "https://skin.bytemetasg.top/" },
+      { text: "皮肤站（不可用）", link: "https://skin.bytemetasg.top/" },
       { text: "指南", link: "/zh/" },
       { text: `支持我们`, link: "/zh/sponsor/" },
       {
