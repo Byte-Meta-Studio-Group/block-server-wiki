@@ -1,0 +1,20 @@
+instance_name = "block-server-network-v2"
+instance_id = "b4f871e2-5e1f-47b8-8430-a99e7e4f172a"
+dhcp = true
+listeners = [
+    "tcp://0.0.0.0:11010",
+    "udp://0.0.0.0:11010",
+    "wg://0.0.0.0:11011",
+    "ws://0.0.0.0:11011/",
+    "wss://0.0.0.0:11012/",
+]
+rpc_portal = "0.0.0.0:0"
+
+[network_identity]
+network_name = "block-server-network-v2"
+network_secret = "default"
+
+[[peer]]
+uri = "tcp://public.easytier.top:11010"
+
+[flags]
